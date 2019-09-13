@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>IncompleteClustering</name>
+	<comment></comment>
+	<projects>
+		<project>kumo-api</project>
+		<project>kumo-cli</project>
+		<project>kumo-core</project>
+		<project>kumo-master</project>
+		<project>kumo-tokenizers</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+</projectDescription>
